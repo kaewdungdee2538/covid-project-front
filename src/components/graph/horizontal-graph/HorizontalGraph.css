@@ -1,0 +1,18 @@
+.horizontal-graph{
+    margin-top: 5px;
+    height: 29px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    transition-property: width;
+    transition-duration: 1s;
+}
+
+.horizontal-graph p{
+    margin-left: 10px;
+    min-width: 400px;
+}
+
+.horizontal-graph:hover{
+    width: 700px;
+}

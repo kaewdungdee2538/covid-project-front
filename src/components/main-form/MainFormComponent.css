@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-app{
+    height: 100vh;
+    overflow-y: hidden;
+}
